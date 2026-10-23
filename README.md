@@ -27,8 +27,8 @@ redação em segundos e adaptar o conteúdo ao cargo que ele quer.
 | | |
 |---|---|
 | Status | Em produção desde agosto de 2026, com usuários e pagamentos reais |
-| Meu papel | Cofundador e CEO. Trabalho no produto e no desenvolvimento (front, back e infraestrutura) |
-| Time | 2 cofundadores |
+| Meu papel | Fundador e CEO. Trabalho no produto e no desenvolvimento (front, back e infraestrutura) |
+| Time | Dois fundadores: eu e o Marcos Alan |
 
 ## Funcionalidades
 
@@ -125,6 +125,6 @@ um time de duas pessoas, operar banco próprio tiraria tempo do produto.
 
 ## Contato
 
-Victor Candido, cofundador · [GitHub](https://github.com/burnoutscript)
+Victor Candido, fundador e CEO · [GitHub](https://github.com/burnoutscript)
 
 <sub>Código-fonte proprietário. Este repositório contém apenas documentação pública do projeto.</sub>
