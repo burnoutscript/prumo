@@ -38,7 +38,7 @@ redação em segundos e adaptar o conteúdo ao cargo que ele quer.
 - Modo foco com pomodoro
 - Plano de treino para o TAF de concursos policiais, com dieta
 - Duelos entre alunos, ranking e conquistas
-- Apps nativos para iOS e Android
+- Apps nativos para iOS e Android, com widgets e treino guiado do TAF ([estudo de caso dos apps](https://github.com/burnoutscript/prumo-apps))
 - Painel interno com métricas de uso, custo de IA e desempenho
 
 | Simulado | Redação |
